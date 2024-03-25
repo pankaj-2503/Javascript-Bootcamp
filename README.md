@@ -1,5 +1,5 @@
 
-<font color="green"> # Complete Javascript Bootcamp 😀💥💫 </font>
+# Complete Javascript Bootcamp 😀💥💫 
 This is complete bootcamp to learn javascript from basic to intermediate level after doing this i am sure every one can solve medium question of DSA using these topics discussed. It is designed to revise all the important concepts of Javascript that is used frequently.If you think this repo helped you make sure to star the repo 🤗.
  ## Data Types
  1. Primitive: 
