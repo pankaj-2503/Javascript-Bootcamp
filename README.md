@@ -377,3 +377,5 @@ console.log(map1.delete('bar'));
 // True indicates successful removal
 map1.clear();
 ```
+---
+A lot more topics are going to be covered soon. Contribute to this repo to make it reach out to every javascript developer 💦.
